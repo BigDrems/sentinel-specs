@@ -84,8 +84,6 @@
 
 ## Notes
 
-- Course project for 4 developers (2 Web, 2 Android; API shared under one API Lead). Deployed live and graded by the professor, with no real end users. Submission: second week of December 2026.
 - Four public repositories: `sentinel-api` (Hono), `sentinel-web` (React), `sentinel-android` (Kotlin), and `sentinel-specs` (this repository). The API's `GET /v1/openapi.json` is the contract.
 - Android is Contributor-only; Reviewer and Admin work happens on Web.
-- All data in the MVP is synthetic test data; there are no real users.
 - Deferred: Admin UI for roles and Taxa, Android Explore tab, iOS, AI note summaries, species/keyword filters, rate limiting, self-serve account deletion and data export, offline editing, Gemini paid tier.
