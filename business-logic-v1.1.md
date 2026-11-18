@@ -6,7 +6,7 @@
 
 - Company/Team Name: Makersphere
 - Project Code Name: Sentinel
-- Project Short Code: sentinel
+- Project Short Code: SN
 - Short Description: BioMap Leyte, a privacy-first wildlife observation map for Leyte with offline field capture, Reviewer validation, and AI-assisted species suggestions.
 - Long Description:
   BioMap Leyte lets community members, students, and researchers in Leyte (starting with Baybay City) record wildlife Observations with photos, field notes, and GPS coordinates, even without connectivity on Android. Reviewers validate each Observation against a curated Taxon list before it becomes public, and Gemini 2.5 Flash offers an unverified species suggestion that never decides anything.
