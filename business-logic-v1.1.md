@@ -4,7 +4,7 @@
 
 ## Project Details
 
-- Company/Team Name: <Team Name>
+- Company/Team Name: Makersphere
 - Project Code Name: Sentinel
 - Project Short Code: sentinel
 - Short Description: BioMap Leyte, a privacy-first wildlife observation map for Leyte with offline field capture, Reviewer validation, and AI-assisted species suggestions.
